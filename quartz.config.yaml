@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: VidIdeas.github.io/quartz
+  baseUrl: VidIdeas.github.io/idk-lol
   ignorePatterns:
     - private
     - templates

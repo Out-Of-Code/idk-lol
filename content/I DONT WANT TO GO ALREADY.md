@@ -1,0 +1,1 @@
+the same as [[Nothing, lets go.]] but Jay says "Too bad" at the start
